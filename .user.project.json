@@ -1,0 +1,18 @@
+{
+  "run": [
+    {
+      "filePath": "/ZUI5_Modularization/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 4936207,
+        "displayName": "New Web Application 12"
+      }
+    }
+  ]
+}
